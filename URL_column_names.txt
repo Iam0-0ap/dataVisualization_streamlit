@@ -1,0 +1,24 @@
+url
+type
+use_of_ip
+abnormal_url
+google_index
+count.
+count_www
+count_@
+count_dir(/)
+count_embed_domain(//)
+short_url
+count_https
+count_http
+count%
+count?
+count -
+count=
+url_length
+hostname_length
+sus_url
+count-digits
+count-letters
+fd_length
+tld_length
